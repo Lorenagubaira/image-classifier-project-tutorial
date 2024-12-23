@@ -11,5 +11,6 @@
 	"duration" : 2,
 	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     "projectType": "project",
+	"autoPlay": "false",
 	"description" : "Use a deep learning algorithm to build an image classifier."
 }
